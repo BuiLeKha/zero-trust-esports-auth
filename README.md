@@ -1,3 +1,5 @@
+<img width="1874" height="837" alt="stellar" src="https://github.com/user-attachments/assets/42209744-a34d-4ecc-904c-234f3f9a2880" />
+<img width="1874" height="837" alt="stellar" src="https://github.com/user-attachments/assets/3816a987-0f79-48b3-8d0c-29b82874b8a4" />
 # Project Title
 ZeroTrust Esports Auth
 
@@ -26,7 +28,8 @@ The vision of ZeroTrust Esports Auth is to provide Esports organizers with a sec
 * **Network:** Testnet
 * **Block Explorer:** https://stellar.expert/explorer/testnet/tx/0d642d79ee3f29b809a4183a821df13934cbca5cf71c32ba56391908dfda26e2
 
-![Stellar Expert Transaction](./stellar.png)
+![Stellar Expert Transaction](./stellar<img width="1874" height="837" alt="stellar" src="https://github.com/user-attachments/assets/8c1fbae2-75a9-449b-ac42-7b6e75042e8d" />
+.png)
 
 ---
 
